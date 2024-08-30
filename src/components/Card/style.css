@@ -1,0 +1,48 @@
+.profile {
+    background-color: rgba(211, 211, 211, 0.57);
+    width: 15.625vw;
+    height: 40vh;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 20px;
+}
+
+.background {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.picture {
+    background-color: white;
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+    margin-top: 15vh;
+}
+
+.picture img {
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+}
+
+.info {
+    height: 15vh;
+    text-align: center;margin-top: 10vh;
+}
+
+.info h2 {
+    margin-top: 1vh;
+    font-size: clamp(15px, 18px, 24px);
+}
+
+.position {
+    font-size: clamp(15px, 18px, 24px);
+}
+
+.stack {
+    font-style: italic;
+    font-size: clamp(15px, 18px, 24px);
+}

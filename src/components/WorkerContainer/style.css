@@ -1,0 +1,41 @@
+.main {
+
+    padding-bottom: 80px;
+}
+
+.boxworker {
+    width: 100vw;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.boxworker h2 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.wrap {
+    width: 100vw;
+}
+
+.line2 {
+    background-color: #6278f7;
+    width: 100px;
+    height: 8px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 80px;
+}
+.MainContainer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.containercards {
+    width: 70vw;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

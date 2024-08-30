@@ -1,0 +1,23 @@
+.form {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Contentform{
+    width: 70vw;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.12);
+    padding-bottom: 40px;
+}
+
+.Contentform h1 {
+    font-size: clamp(15px, 1.5vw, 24px);
+    margin: 3vw;
+}
+
+.Contentinput {
+    margin: 3vw;
+}

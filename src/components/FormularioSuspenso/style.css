@@ -1,0 +1,19 @@
+
+.form label {
+    font-size: clamp(15px, 17px, 20px);
+    display: block;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.form select {
+    margin-bottom: 8px;
+    font-size: clamp(15px, 17px, 20px);
+    width: 64vw;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0.79);
+    box-shadow: 6px 6px 16px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+}
